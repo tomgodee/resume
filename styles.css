@@ -1,3 +1,126 @@
-.tom {
-  color: red
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+html {
+  font-size: 6px;
+}
+
+body {
+  margin: 4rem 6rem;
+}
+
+p {
+  font-size: 2rem;
+}
+
+ul {
+  margin-left: 2rem;
+}
+
+.entry {
+  margin: 2rem 0;
+}
+
+.name {
+  margin: 1rem;
+  font-size: 4rem;
+  text-align: center;
+}
+
+.occupation {
+  margin: 1rem;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.basic-info {
+  margin: 1rem;
+  text-align: center;
+}
+
+.title {
+  margin: 1rem;
+  font-size: 3rem;
+  letter-spacing: 0.8px;
+  text-align: center;
+}
+
+.achivement {
+  margin: 1rem 0;
+  font-size: 2rem;
+}
+
+.skill {
+  margin: 1rem 0;
+  font-size: 2rem;
+}
+
+.company {
+  margin: 2rem 0 1rem;
+  font-size: 2.5rem;
+}
+
+.position-container {
+  margin: 3rem 0;
+}
+
+.position {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.responsibility {
+  margin: 1rem;
+  font-size: 2rem;
+}
+
+.project-description {
+  margin: 1rem;
+  font-size: 2rem;
+}
+
+.technology {
+  margin: 1rem;
+  font-size: 2rem;
+}
+
+.project-focal-point {
+  font-weight: bold;
+}
+
+
+@media only screen and (min-width: 640px) {
+  html {
+    font-size: 8px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  html {
+    font-size: 10px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  html {
+    font-size: 14px;
+  }
+
+  body {
+    margin: 4rem 7rem;
+  }
+}
+
+@media only screen and (min-width: 1280px) {
+  html {
+    font-size: 12px;
+  }
+
+  body {
+    margin: 4rem 24rem;
+  }
 }
