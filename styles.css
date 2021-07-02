@@ -37,6 +37,11 @@ ul {
   text-align: center;
 }
 
+.about {
+  margin: 1rem 0;
+  font-size: 2rem;
+}
+
 .basic-info {
   margin: 1rem;
   text-align: center;
@@ -44,7 +49,7 @@ ul {
 
 .title {
   margin: 1rem;
-  font-size: 3rem;
+  font-size: 3.2rem;
   letter-spacing: 0.8px;
   text-align: center;
 }
@@ -61,7 +66,7 @@ ul {
 
 .company {
   margin: 2rem 0 1rem;
-  font-size: 2.5rem;
+  font-size: 2.8rem;
 }
 
 .position-container {
@@ -69,7 +74,7 @@ ul {
 }
 
 .position {
-  font-size: 2rem;
+  font-size: 2.5rem;
   margin-bottom: 1rem;
 }
 
