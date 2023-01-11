@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Tom's resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomgodee/resume.git"
+  },
+  "author": "Tom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomgodee/resume/issues"
+  },
+  "homepage": "https://github.com/tomgodee/resume#readme",
+  "devDependencies": {
+    "prettier": "2.8.2"
+  }
+}
